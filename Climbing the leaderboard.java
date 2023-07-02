@@ -38,7 +38,6 @@ class Result {
         }
         return ranks;
     }*/
-            public static List<Integer> climbingLeaderboard(List<Integer> ranked, List<Integer> player) {
     /* Write your code here
         TreeSet<Integer> s = new TreeSet<Integer>(ranked);
         List<Integer> b = new ArrayList<Integer>();
